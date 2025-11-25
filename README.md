@@ -2,7 +2,7 @@
 
 A playful mini-project built with **HTML, CSS, and JavaScript** where a button *refuses* to be clicked!  
 Move your cursor toward the button and watch it randomly escape across the screen.  
-Think you can catch it? 😏
+Think you can catch it? 😏.... Give it a try
 
 ---
 
@@ -30,6 +30,7 @@ Think you can catch it? 😏
 - On `mouseover`, JavaScript calculates random X/Y positions using `Math.random()` and updates the CSS `left` and `top`.
 - A click triggers a simple JavaScript alert.
 
+
 ---
 
 
@@ -37,7 +38,9 @@ Think you can catch it? 😏
 1. Clone this repository:
 https://blackie001.github.io/ranaway-button/
 
+Yuo can help me grow by recommending me to your friends, clone this or any of my repository, give it a star, download it and I'll appreciate
 
+---
 
 
 
