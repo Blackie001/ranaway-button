@@ -14,7 +14,7 @@ Think you can catch it? 😏
 
 ---
 
-## 🚀 Features
+## 🚀 Features  📂 Project Structure
 
 ✔ Button moves to a random location when hovered  
 ✔ Smooth scaling animation during escape  
@@ -23,13 +23,6 @@ Think you can catch it? 😏
 ✔ Pure **HTML + CSS + JavaScript**, no frameworks
 
 ---
-
-## 📂 Project Structure
-
-html
-Css
-Js
-
 
 ## 🧠 How It Works
 
