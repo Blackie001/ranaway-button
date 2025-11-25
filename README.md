@@ -8,7 +8,9 @@ Think you can catch it? 😏
 
 ## 🕹️ Demo Preview
 > _Try clicking the button… if you can!_  
-(Add a GIF or screenshot here once uploaded)
+<img width="1907" height="994" alt="image" src="https://github.com/user-attachments/assets/efb1badb-69c9-472a-b6e9-fe079d9e0982" />
+<img width="1868" height="905" alt="image" src="https://github.com/user-attachments/assets/8adc781f-b7d7-4ab7-85b6-c569d4bbc1c5" />
+
 
 ---
 
