@@ -24,7 +24,7 @@ Think you can catch it? 😏
 
 ---
 
-## 🧠 How It Works
+## 🧠 How It Works 💯
 
 - The button is detected using `getElementById`.
 - On `mouseover`, JavaScript calculates random X/Y positions using `Math.random()` and updates the CSS `left` and `top`.
@@ -33,7 +33,8 @@ Think you can catch it? 😏
 ---
 
 
-
+## 🚀 How to View
+1. Clone this repository:
 https://blackie001.github.io/ranaway-button/
 
 
