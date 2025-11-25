@@ -1,0 +1,21 @@
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, #ff9966, #ff5e62);
+    font-family: Arial, sans-serif;
+    overflow: hidden; /* prevent scrollbars */
+}
+
+#funBtn {
+    padding: 15px 30px;
+    font-size: 18px;
+    border: none;
+    background: #fff;
+    color: #ff5e62;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: transform 0.1s ease;
+    position: absolute;
+}
