@@ -1,6 +1,4 @@
-# ranaway-button
-
-# 🎯 Catch Me If You Can – JS Fun Button Challenge
+# 🎯 Runaway-button – JS Fun Button Challenge
 
 A playful mini-project built with **HTML, CSS, and JavaScript** where a button *refuses* to be clicked!  
 Move your cursor toward the button and watch it randomly escape across the screen.  
